@@ -51,7 +51,7 @@ document_path = os.path.join(script_dir, 'Text')
 print(f"Document path: {document_path}")
 
 # Define the main project and text folders path
-PROJECT_FOLDER = "/Users/claudiamoralesvaliente/Library/CloudStorage/OneDrive-TheUniversityofWesternOntario/PhD/Study 2/Python/TextBlob/Text"
+PROJECT_FOLDER = "Project/path"
 TEXT_FOLDERS_PATH = PROJECT_FOLDER  # Define main text folders path
 
 # Obtain a list of all participant folder paths
